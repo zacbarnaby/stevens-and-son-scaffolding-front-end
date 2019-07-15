@@ -1,0 +1,30 @@
+{
+  "name": "stevens-and-son-scaffolding-front-end",
+  "version": "1.0.0",
+  "description": "Stevens & Son Scaffolding - Front end Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacbarnaby/stevens-and-son-scaffolding-front-end.git"
+  },
+  "author": "Zac Barnaby",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^7.1.2",
+    "css-mqpacker": "^6.0.1",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglifycss": "^1.0.8",
+    "postcss-assets": "^4.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/zacbarnaby/stevens-and-son-scaffolding-front-end/issues"
+  },
+  "homepage": "https://github.com/zacbarnaby/stevens-and-son-scaffolding-front-end#readme"
+}

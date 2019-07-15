@@ -1,0 +1,10 @@
+node_modules/
+package-lock.json
+vendor
+stevensandsonscaffolding.co.uk
+old/
+assets/imgs/
+assets/fonts/
+scaffolding-services.php
+terms-and-conditions.php
+privacy-policy.php
